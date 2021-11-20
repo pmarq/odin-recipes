@@ -1,0 +1,29 @@
+body h1{
+    color: rgb(75, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body a{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body p{
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(104, 51, 14);
+}
+
+body h4{
+    color: rgb(75, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body li{
+    font-family: Arial, Helvetica, sans-serif;
+     color: rgb(104, 51, 14);
+}
+
+body img{
+    width: 300px;
+    height: 300px;
+}
